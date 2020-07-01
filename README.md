@@ -4,6 +4,7 @@ iOS Artificial Intelligence App that detects the name of the flower upon taking 
 ## Features:
 
 ## Demo:
+<a href="https://media.giphy.com/media/ieJucGqtHbI3LBVJwO/giphy.gif"><img src="https://media.giphy.com/media/ieJucGqtHbI3LBVJwO/giphy.gif" title="flower"/></a>
 
 ## Technology Used:
 - Swift
@@ -16,3 +17,4 @@ iOS Artificial Intelligence App that detects the name of the flower upon taking 
 ## Notes:
 - mlmodel for Flower Classification not included because the file was too big
 - Pods folder not included because it was too big
+- None of the images belong to me and are used for learning purposes only
