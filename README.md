@@ -26,3 +26,4 @@ iOS Artificial Intelligence App that detects the name of the flower upon taking 
 - Pods folder not included because it was too big
 - None of the images belong to me and are used for learning purposes only
   - https://unsplash.com/
+  - https://www.canva.com/
